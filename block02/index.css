@@ -1,0 +1,16 @@
+* body{ *
+    background-color: rgb(226, 191, 203);
+}/
+h1{
+    color: rgb(69, 43, 90);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-decoration-color: rgb(129, 61, 194);
+    text-align: center;
+}
+
+p{
+    text-indent: 10%;
+}
+
